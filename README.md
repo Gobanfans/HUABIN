@@ -2,7 +2,6 @@
 
 - **TG频道：@gobanfans**
 
- - **TG官方订阅：https://t.me/gobanfans**（复制这段网址然后在TG软件中直接搜索即可）
   - 说明：不会翻墙或者没有翻墙工具的童鞋可以直接使用内置代理的TG第三方软件-飞聊App（FlyChat），官网下载地址:https://flychat.in/cn.html ，如果软件没有汉化，可加入频道后置顶消息中安装中文汉化包。
 
 
