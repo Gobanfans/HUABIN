@@ -1,5 +1,11 @@
-微信公众号：星河分享日记
+微信公众号：星河分享日记    
+
 TG频道：@gobanfans
+
+  - **微信公众号：星河分享日记**
+ - **TG官方订阅：https://t.me/gobanfans**（复制这段网址然后在TG软件中直接搜索即可）
+  - 说明：不会翻墙或者没有翻墙工具的童鞋可以直接使用内置代理的TG第三方软件-飞聊App（FlyChat），官网下载地址:https://flychat.in/cn.html ，如果软件没有汉化，可加入频道后置顶消息中安装中文汉化包。
+
 
 公众号全部资源
 ----------
@@ -8,11 +14,6 @@ TG频道：@gobanfans
 ----------
 
 **本文集合了公众号【星河分享日记】已经分享的所有资源，请自行按照分类查找和下载：**
-
-  - **微信公众号：星河分享日记**
- - **TG官方订阅：https://t.me/gobanfans**（复制这段网址然后在TG软件中直接搜索即可）
-  - 说明：不会翻墙或者没有翻墙工具的童鞋可以直接使用内置代理的TG第三方软件-飞聊App（FlyChat），官网下载地址:https://flychat.in/cn.html ，如果软件没有汉化，可加入频道后置顶消息中安装中文汉化包。
-
 
 ----------
  - [VIP音乐下载、播放软件][1]
@@ -56,22 +57,22 @@ TG频道：@gobanfans
 ----------
 
 
-  [1]: https://www.lanzous.com/b04xyl1mb
-  [2]: https://www.lanzous.com/b04xyl1nc
-  [3]: https://www.lanzous.com/b04xyl25a
-  [4]: https://www.lanzous.com/b04xyl27c
-  [5]: https://www.lanzous.com/b04xyl26b
-  [6]: https://www.lanzous.com/b04y0znda
-  [7]: https://www.lanzous.com/b04xyl28d
-  [8]: https://www.lanzous.com/b04xyl2sd
-  [9]: https://www.lanzous.com/b04y8rttc
-  [10]: https://www.lanzous.com/b04y8rv6b
-  [11]: https://www.lanzous.com/b04xyl2te
-  [12]: https://www.lanzous.com/b04xyl31c
-  [13]: https://www.lanzous.com/b04y19ifc
-  [14]: https://www.lanzous.com/b04xzog9c
-  [15]: https://www.lanzous.com/b04y0znli
-  [16]: https://www.lanzous.com/b04xyl33e
-  [17]: https://www.lanzous.com/b04y8rtzi
-  [18]: https://www.lanzous.com/b04y7r07a
-  [19]: https://www.lanzous.com/b04y6file
+  [1]: 
+  [2]: 
+  [3]: 
+  [4]: 
+  [5]: 
+  [6]: 
+  [7]: 
+  [8]: 
+  [9]: 
+  [10]: 
+  [11]: 
+  [12]: 
+  [13]: 
+  [14]: 
+  [15]: 
+  [16]: 
+  [17]: 
+  [18]: 
+  [19]: 
